@@ -9,7 +9,7 @@ export const metadata = {
   description: "Injury reporting system",
   icons: { leif: "/favicon.ico" },
   manifest: "/manifest.json",
-};
+}; 
 
 export default function RootLayout({ children }) {
   return (
